@@ -7,3 +7,36 @@
     margin: 0px auto;
     padding: 20px 0px;
 }
+
+table, th, td {
+  border:1px solid black;
+}
+.nr{
+    h1{
+        border: 1px solid rgb(161, 144, 144);
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.card{
+    h1{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+}
+
+.dft{
+    display: flex;
+    gap: 30px;
+}
+
+@media (min-width:768px) {
+    .dft{
+        display: flex;
+       
+    }
+    
+}

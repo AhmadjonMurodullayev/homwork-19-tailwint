@@ -17,19 +17,34 @@
 
     // vazifa-2
 
-// let num4 = prompt('num4ni kiriting')
+// let num = prompt('num4ni kiriting')
 
-// if (num4 % 3 == 0 && num4 % 5 == 0) {
+// if (num % 3 == 0 && num % 5 == 0) {
 //     console.log('fizz-bazz')
-// } else if (num4 % 3 == 0) {
+// } else if (num % 3 == 0) {
 //     console.log('fizz')
-// } else if (num4 % 5 == 0) {
+// } else if (num % 5 == 0) {
 //     console.log('bazz')
 // } else {
 //     console.log('joy yo’q')
 
 // }
         //   vazifa-4
+
+
+
+
+        // let number = prompt ("son kiriting")
+// let rabdom = Math.floor(Math.random () * 10)
+// const result = () => {
+//     if (number > random){
+//         console.log '$ {number} son katta'
+//     }else( number < rabdom){
+//           console.log'$ {random} son katta'
+//     }
+// }
+
+
 
 // let num5 = prompt('num5ni kiriting')
 // let num6 = prompt('num6ni kiriting')
@@ -60,3 +75,14 @@
 // }else{
 //     console.log(namber3)
 // }
+
+
+// function degree (a,b){
+//     if ( a > b){
+//         return a % b ;
+//     }else {
+//         return b % a ;
+//     }
+    
+// }
+// console.log(degree(15,4));
